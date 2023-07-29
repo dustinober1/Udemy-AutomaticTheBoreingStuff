@@ -1,1 +1,1 @@
-# Udemy-AutomaticTheBoreingStuff
+# Udemy: Automate the Boreing Stuff with Python
