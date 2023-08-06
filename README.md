@@ -7,3 +7,4 @@
 - [Section 5: Creating a Guess the Number Game](/Section%205:%20Guess%20the%20Number/)
 - [Section 6: List](/Section%206:%20List/)
 - [Section 7: Dictionaries](/Section%207:%20Dictionaries/)
+- [Section 8: More About Strings](/Section%208:%20More%20About%20Strings/)
